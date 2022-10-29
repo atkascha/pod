@@ -19,3 +19,12 @@ To move...
 To "ping"...
 
 <kbd>SPACEBAR</kbd>
+
+### Development
+
+Refer to p5js for environment. You will need to use a webserver for local development. I used a
+small Python 1 liner, on Windows...
+
+```
+python3 -m http.server
+```
